@@ -1,7 +1,5 @@
 # Camera
 
-
-
 * Troubleshooting React Native Startup
 
     To run your app on iOS: cd /Users/vukdukic/rncameraroll/rncameraroll react-native run-ios
